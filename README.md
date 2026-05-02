@@ -173,6 +173,14 @@ Soy un desarrollador enfocado en la creación de soluciones eficientes mediante 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=op2020pk-ux&theme=tokyonight" alt="Streak Stats" />
 </p>
 
+### 🤝 Los mas Usados 🤝
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=op2020pk-ux&layout=compact&theme=vision-friendly-dark" alt="Los mejores idiomas" />
+  </a>
+</p>
+
 ---
 
 ### 🤝 Conecta conmigo 🤝
