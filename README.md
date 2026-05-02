@@ -38,19 +38,19 @@ Soy un desarrollador enfocado en la creación de soluciones eficientes mediante 
 <table align="center">
   <tr> <!-- Agregamos esta etiqueta para abrir la fila -->
     <td align="center">
-      <img src="./assets/Finanza.gif" width="220px" height="120px" alt="Proyecto 1"><br>
+      <img src="./assets/Finanza.gif" width="200px" height="100px" alt="Proyecto 1"><br>
       <sub><b>Finanza Pro</b></sub>
     </td>
     <td align="center">
-      <img src="./assets/code-Finanza.gif" width="220px" height="120px" alt="Proyecto 1"><br>
+      <img src="./assets/code-Finanza.gif" width="200px" height="100px" alt="Proyecto 1"><br>
       <sub><b>Code Pro</b></sub>
     </td>
     <td align="center">
-      <img src="./assets/BBT.gif" width="220px" height="120px" alt="Proyecto 2"><br>
+      <img src="./assets/BBT.gif" width="200px" height="100px" alt="Proyecto 2"><br>
       <sub><b>Biblioteca Publica</b></sub>
     </td>
     <td align="center">
-      <img src="./assets/code-BBT.gif" width="220px" height="120px" alt="Proyecto 2"><br>
+      <img src="./assets/code-BBT.gif" width="200px" height="100px" alt="Proyecto 2"><br>
       <sub><b>Code Biblioteca Publica</b></sub>
     </td>
   </tr>
@@ -74,67 +74,83 @@ Soy un desarrollador enfocado en la creación de soluciones eficientes mediante 
       <img src="./assets/001.gif" width="220px" height="120px" alt="Foto 3"><br>
       <sub><b>Momento 3</b></sub>
     </td>
-    <td align="center">
-      <img src="./assets/Yo.gif" width="220px" height="120px" alt="Foto 4"><br>
-      <sub><b>Momento 4</b></sub>
-    </td>
-  </tr>
 </table>
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas 🛠️
 
-<p align="left">
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70" style="margin: 10px"/> 
-  </a>
-  <!-- SQLite3 -->
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="70" height="70" style="margin: 10px"/> 
-  </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70" style="margin: 10px"/> 
-  </a>
-  <!-- GitHub -->
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="70" height="70" style="margin: 10px"/> 
-  </a>
-  <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="70" height="70" style="margin: 10px"/> 
-  </a>
-  <!-- Django -->
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="70" height="70" style="margin: 10px"/> 
-  </a>
-  <!-- HTML5 -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70" style="margin: 10px"/> 
-  </a>
-  <!-- CSS3 -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70" style="margin: 10px"/> 
-  </a>
-  <!-- C -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70" height="70" style="margin: 10px"/> 
-  </a>
-  <!-- C++ -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="70" height="70" style="margin: 10px"/> 
-  </a>
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70" style="margin: 10px"/> 
-  </a>
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="70" height="70" style="margin: 10px"/> 
-  </a>
-</p>
+<table align="center">
+  <!-- Fila 1 -->
+  <tr>
+    <td align="center">
+      <a href="https://www.python.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="65" height="65"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.sqlite.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="65" height="65"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="65"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="65" height="65"/>
+      </a>
+    </td>
+  </tr>
+  <!-- Fila 2 -->
+  <tr>
+    <td align="center">
+      <a href="https://www.linux.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="65" height="65"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.djangoproject.com/" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="65" height="65"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.w3.org/html/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="65" height="65"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="65" height="65"/>
+      </a>
+    </td>
+  </tr>
+  <!-- Fila 3 -->
+  <tr>
+    <td align="center">
+      <a href="https://www.cprogramming.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="65" height="65"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.w3schools.com/cpp/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="65" height="65"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="65" height="65"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.postgresql.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="65" height="65"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -162,17 +178,10 @@ Soy un desarrollador enfocado en la creación de soluciones eficientes mediante 
 ### 🤝 Conecta conmigo 🤝
 
 <p align="left">
-  <!-- Gmail -->
   <a href="mailto:op2020pk@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fop2020pk-ux%2Fgmail-click&count_bg=%230E75B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Clicks&edge_flat=false" height="20" />
-
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- Discord -->
   <a href="https://discord.gg/gEn8GHj8t" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fop2020pk-ux%2Fdiscord-click&count_bg=%230E75B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Clicks&edge_flat=false" height="20" />
 </p>
