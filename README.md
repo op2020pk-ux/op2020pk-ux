@@ -150,6 +150,29 @@ Soy un desarrollador enfocado en la creación de soluciones eficientes mediante 
       </a>
     </td>
   </tr>
+  <!-- Fila 4 -->
+  <tr>
+    <td align="center">
+      <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="65" height="65"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="65" height="65"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://visualstudio.microsoft.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="65" height="65"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.microsoft.com/en-us/microsoft-365/access" target="_blank">
+        <img src="./assets/acces.gif" alt="access" width="65" height="65"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -175,18 +198,13 @@ Soy un desarrollador enfocado en la creación de soluciones eficientes mediante 
 
 ---
 
-## 📊 Actividad en GitHub
+###  Bandera De Venezuela
 
-<div align="center">
-
-<!-- Serpiente de contribución -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/op2020pk-ux/op2020pk-ux/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/op2020pk-ux/op2020pk-ux/output/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/op2020pk-ux/op2020pk-ux/output/github-snake-dark.svg" width="100%">
-</picture>
-
-</div>
+<p align="center">
+  <img src="./assets/Venezuela.gif" width="150">
+  <img src="./assets/Venezuela.gif" width="150">
+  <img src="./assets/Venezuela.gif" width="150">
+</p>
 
 ---
 
