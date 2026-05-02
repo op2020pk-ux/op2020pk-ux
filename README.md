@@ -9,7 +9,7 @@
 
 ---
 
-### 🏆 Mis Logros y Trofeos 🏆
+### 🏆 Mis Logros y Trofeos 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=op2020pk-ux&label=Profile%20views&color=0e75b6&style=flat-square" alt="op2020pk-ux" />
@@ -22,7 +22,7 @@
 
 ---
 
-### 🚀 Sobre mí 🚀
+### 🚀 Sobre mí 
 
 Soy un desarrollador enfocado en la creación de soluciones eficientes mediante software de escritorio y gestión de bases de datos. Me apasiona transformar ideas en herramientas funcionales que faciliten la administración de datos.
 
@@ -33,7 +33,7 @@ Soy un desarrollador enfocado en la creación de soluciones eficientes mediante 
 
 ---
 
-### 💻 Mis proyectos 💻
+### 💻 Mis proyectos 
 
 <table align="center">
   <tr> <!-- Agregamos esta etiqueta para abrir la fila -->
@@ -58,7 +58,7 @@ Soy un desarrollador enfocado en la creación de soluciones eficientes mediante 
 
 ---
 
-### 📸 Galería Personal 📸
+### 📸 Galería Personal 
 
 <table align="center">
   <tr>
@@ -78,7 +78,7 @@ Soy un desarrollador enfocado en la creación de soluciones eficientes mediante 
 
 ---
 
-### 🛠️ Tecnologías y Herramientas 🛠️
+### 🛠️ Tecnologías y Herramientas 
 
 <table align="center">
   <!-- Fila 1 -->
@@ -154,7 +154,7 @@ Soy un desarrollador enfocado en la creación de soluciones eficientes mediante 
 
 ---
 
-### 📂 Proyectos Destacados 📂
+### 📂 Proyectos Destacados 
 
 *   **Finanzas Pro:** Sistema de gestión financiera personal.
 *   **Sistema Bibliotecario Los Libertadores:** Software administrativo para el control de bibliotecas.
@@ -162,7 +162,7 @@ Soy un desarrollador enfocado en la creación de soluciones eficientes mediante 
 
 ---
 
-### 📊 Estadísticas de GitHub 📊
+### 📊 Estadísticas de GitHub 
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=op2020pk-ux&show_icons=true&locale=es&layout=compact&theme=tokyonight" />
@@ -173,17 +173,24 @@ Soy un desarrollador enfocado en la creación de soluciones eficientes mediante 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=op2020pk-ux&theme=tokyonight" alt="Streak Stats" />
 </p>
 
-### 🤝 Los mas Usados 🤝
+---
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=op2020pk-ux&layout=compact&theme=vision-friendly-dark" alt="Los mejores idiomas" />
-  </a>
-</p>
+## 📊 Actividad en GitHub
+
+<div align="center">
+
+<!-- Serpiente de contribución -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/op2020pk-ux/op2020pk-ux/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/op2020pk-ux/op2020pk-ux/output/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/op2020pk-ux/op2020pk-ux/output/github-snake-dark.svg" width="100%">
+</picture>
+
+</div>
 
 ---
 
-### 🤝 Conecta conmigo 🤝
+### 🤝 Conecta conmigo 
 
 <p align="left">
   <a href="mailto:op2020pk@gmail.com">
