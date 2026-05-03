@@ -86,6 +86,10 @@ Soy un desarrollador enfocado en la creación de soluciones eficientes mediante 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Tecnologías y Herramientas 
 <p align="center"> 
 
+<picture> 
+  <img align="right" src="https://clipart-library.com/images/pTqrMdbec.gif" width="250px">
+</picture>
+
 <table align="center">
   <!-- Fila 1 -->
   <tr>
@@ -197,7 +201,8 @@ Soy un desarrollador enfocado en la creación de soluciones eficientes mediante 
 <p align="center">
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=op2020pk-ux&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <!-- Se cambió el usuario a omarpinto para que coincida con tus otros gráficos -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarpinto&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -232,7 +237,7 @@ Soy un desarrollador enfocado en la creación de soluciones eficientes mediante 
     <tr>
       <td align="center">
         <!-- Tus lenguajes reales basados en tu actividad -->
-        <img height="150" alt="stats graph" src="https://raw.githubusercontent.com/op2020pk-ux/op2020pk-ux/build/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+        <img height="150" alt="stats graph" src="https://raw.githubusercontent.com/omarpinto/omarpinto/build/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
       </td>
       <td align="center" style="padding: 0 20px;">
         <!-- Logo de GitHub animado -->
@@ -240,7 +245,7 @@ Soy un desarrollador enfocado en la creación de soluciones eficientes mediante 
       </td>
       <td align="center">
         <!-- Tus estadísticas generales reales -->
-        <img height="150" alt="languages graph" src="https://raw.githubusercontent.com/op2020pk-ux/op2020pk-ux/build/profile-summary-card-output/tokyonight/3-stats.svg" />
+        <img height="150" alt="languages graph" src="https://raw.githubusercontent.com/omarpinto/omarpinto/build/profile-summary-card-output/tokyonight/3-stats.svg" />
       </td>
     </tr>
   </table>
@@ -248,5 +253,5 @@ Soy un desarrollador enfocado en la creación de soluciones eficientes mediante 
   <br>
 
   <!-- Tus detalles de perfil reales -->
-  <img src="https://raw.githubusercontent.com/op2020pk-ux/op2020pk-ux/build/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="detalles del perfil"/>
+  <img src="https://raw.githubusercontent.com/omarpinto/omarpinto/build/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="detalles del perfil"/>
 </div>
