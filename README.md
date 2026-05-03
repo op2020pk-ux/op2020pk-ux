@@ -219,39 +219,32 @@ Soy un desarrollador enfocado en la creación de soluciones eficientes mediante 
 
 ## <picture> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width=40> </picture> Conecta conmigo 
 
-<p align="center">
-  <a href="mailto:op2020pk@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Espacio de separación -->
-  <a href="https://discord.gg/gEn8GHj8t" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="40" />
-  </a>
-</p>
-
----
-## <picture> <img src="assets/serpiente.gif" width="40"> </picture> Gráfico de contribuciones 
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <!-- Tus lenguajes reales basados en tu actividad -->
-        <img height="150" alt="stats graph" src="https://raw.githubusercontent.com/omarpinto/omarpinto/build/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
-      </td>
-      <td align="center" style="padding: 0 20px;">
-        <!-- Logo de GitHub animado -->
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-      </td>
-      <td align="center">
-        <!-- Tus estadísticas generales reales -->
-        <img height="150" alt="languages graph" src="https://raw.githubusercontent.com/omarpinto/omarpinto/build/profile-summary-card-output/tokyonight/3-stats.svg" />
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
-  <!-- Tus detalles de perfil reales -->
-  <img src="https://raw.githubusercontent.com/omarpinto/omarpinto/build/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="detalles del perfil"/>
-</div>
+<table width="100%" align="center" border="0">
+  <tr>
+    <!-- Extremo Izquierdo -->
+    <td align="left" valign="middle">
+      <img src="assets/Redes.gif" alt="GitHub Octocat Logo" height="180">
+    </td>
+    <!-- Centro: Contactos con tamaño uniforme -->
+    <td align="center" valign="middle" style="padding: 0 20px;">
+      <!-- Gmail -->
+      <a href="mailto:op2020pk@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="150" height="40" />
+      </a>
+      <br><br>
+      <!-- Discord -->
+      <a href="https://discord.gg/gEn8GHj8t" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="150" height="40" />
+      </a>
+      <br><br>
+      <!-- WhatsApp -->
+      <a href="https://wa.me/584120000000" target="_blank">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="150" height="40" />
+      </a>
+    </td>
+    <!-- Extremo Derecho -->
+    <td align="right" valign="middle">
+      <img src="assets/Redes.gif" alt="GitHub Octocat Logo" height="180">
+    </td>
+  </tr>
+</table>
