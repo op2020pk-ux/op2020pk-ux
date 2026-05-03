@@ -2,14 +2,15 @@
   <img src="./assets/tenor.gif" width="100%">
 </p>
 
-<h1 align="center">👋 Hi, Welcome 👋, I'm Omar Pinto </h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, Welcome, I'm Omar Pinto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <strong>Desarrollador de Software en formación | Construyendo soluciones con Python | Estudiante de Informática | Apasionado por el desarrollo de software y la automatización.</strong>
 </p>
 
 ---
 
-### 🏆 Mis Logros y Trofeos 
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Mis Logros <picture>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=op2020pk-ux&label=Profile%20views&color=0e75b6&style=flat-square" alt="op2020pk-ux" />
@@ -22,18 +23,22 @@
 
 ---
 
-### 🚀 Sobre mí 
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Acerca de mí <picture>
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
 Soy un desarrollador enfocado en la creación de soluciones eficientes mediante software de escritorio y gestión de bases de datos. Me apasiona transformar ideas en herramientas funcionales que faciliten la administración de datos.
 
 - 🔭 **Proyectos actuales:** Desarrollo de aplicaciones robustas con **Python (CustomTkinter)** y **SQLite3**.
+
 - 🌱 **En aprendizaje:** Arquitectura de software, patrones de diseño y optimización avanzada de bases de datos relacionales.
+
 - 👯 **Colaboraciones:** Abierto a proyectos de código abierto sobre herramientas de gestión y automatización.
+
 - ⚡ **Dato curioso:** He comprobado que a veces "borrarlo todo y empezar de nuevo" es la forma más rápida de alcanzar la excelencia.
 
 ---
-
-### 💻 Mis proyectos 
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=40> </picture> Mis proyectos 
 
 <table align="center">
   <tr> <!-- Agregamos esta etiqueta para abrir la fila -->
@@ -58,8 +63,8 @@ Soy un desarrollador enfocado en la creación de soluciones eficientes mediante 
 
 ---
 
-### 📸 Galería Personal 
-
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=40> </picture> Galería Personal 
+ 
 <table align="center">
   <tr>
     <td align="center">
@@ -78,7 +83,8 @@ Soy un desarrollador enfocado en la creación de soluciones eficientes mediante 
 
 ---
 
-### 🛠️ Tecnologías y Herramientas 
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Tecnologías y Herramientas 
+<p align="center"> 
 
 <table align="center">
   <!-- Fila 1 -->
@@ -177,28 +183,26 @@ Soy un desarrollador enfocado en la creación de soluciones eficientes mediante 
 
 ---
 
-### 📂 Proyectos Destacados 
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=40> </picture> Proyectos Destacados
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 *   **Finanzas Pro:** Sistema de gestión financiera personal.
 *   **Sistema Bibliotecario Los Libertadores:** Software administrativo para el control de bibliotecas.
 *   **Bio Control:** Herramientas de censo y gestión comunitaria.
 
 ---
-
-### 📊 Estadísticas de GitHub 
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=op2020pk-ux&show_icons=true&locale=es&layout=compact&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=op2020pk-ux&show_icons=true&locale=es&theme=tokyonight" />
-</p>
+## <picture> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width=40> </picture> Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=op2020pk-ux&theme=tokyonight" alt="Streak Stats" />
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=op2020pk-ux&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
 
-###  Bandera De Venezuela
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=40> </picture> Bandera De Venezuela
 
 <p align="center">
   <img src="./assets/Venezuela.gif" width="150">
@@ -208,13 +212,41 @@ Soy un desarrollador enfocado en la creación de soluciones eficientes mediante 
 
 ---
 
-### 🤝 Conecta conmigo 
+## <picture> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width=40> </picture> Conecta conmigo 
 
-<p align="left">
+<p align="center">
   <a href="mailto:op2020pk@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Espacio de separación -->
   <a href="https://discord.gg/gEn8GHj8t" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="40" />
   </a>
 </p>
+
+---
+## <picture> <img src="assets/serpiente.gif" width="40"> </picture> Gráfico de contribuciones 
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <!-- Tus lenguajes reales basados en tu actividad -->
+        <img height="150" alt="stats graph" src="https://raw.githubusercontent.com/op2020pk-ux/op2020pk-ux/build/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+      </td>
+      <td align="center" style="padding: 0 20px;">
+        <!-- Logo de GitHub animado -->
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+      </td>
+      <td align="center">
+        <!-- Tus estadísticas generales reales -->
+        <img height="150" alt="languages graph" src="https://raw.githubusercontent.com/op2020pk-ux/op2020pk-ux/build/profile-summary-card-output/tokyonight/3-stats.svg" />
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <!-- Tus detalles de perfil reales -->
+  <img src="https://raw.githubusercontent.com/op2020pk-ux/op2020pk-ux/build/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="detalles del perfil"/>
+</div>
